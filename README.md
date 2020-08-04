@@ -39,3 +39,5 @@ The repo contains:
 * It could also be a good idea to cluster on a more granular level such as store level as an example
 ## Acknowledgements
 I would like to thank everyone involved , Udacity for providing the opportunity to work on this and my other half for the moral support :)
+
+Link to medium article : https://medium.com/@jpasecnika/sales-data-time-series-clustering-c4d54f903c88
